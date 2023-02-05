@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Berk</h1>
-<h3 align="center">A newly graduated computer engineer, live in Istanbul, completed compulsory internship on asp.net and using unity as a game developer for a short time, but since want to be a mobile developer, focused on ios development.</h3>
-
-- I’m currently learning **IOS Development**
+<h3 align="center">A newly graduated computer engineer, live in Istanbul.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
